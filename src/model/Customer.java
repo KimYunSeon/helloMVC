@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
+//¸ðµ¨ °´Ã¼
 @Getter
 @Setter
 @AllArgsConstructor
